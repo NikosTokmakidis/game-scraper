@@ -1,6 +1,6 @@
 #! bin/bash
 
-sudo dd if=/dev/sr0 of=<path for iso>
+
 
 echo "####################"
 echo "### Game Scraper ###"
